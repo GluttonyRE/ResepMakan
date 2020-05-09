@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Splashscreen_13</string>
+    <string name="images">int_images</string>
+    <string name="wait">Wait!</string>
+    <string name="header">SMK TELKOM PURWOKERTO</string>
+    <string name="smk_telkom_purwokerto">SMK TELKOM PURWOKERTO</string>
+    <string name="nama_galih_putra_adiansyah">Nama : Galih Putra Adiansyah</string>
+    <string name="kelas_xi_rpl_4">Kelas : XI RPL 4</string>
+    <string name="absen_13">Absen : 13</string>
+    <string name="_2019">2019</string>
+    <string name="tv_versi">v2.0</string>
+    <string name="tv_welcome">Welcome</string>
+</resources>
